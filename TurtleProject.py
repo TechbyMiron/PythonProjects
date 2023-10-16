@@ -2,7 +2,7 @@ from turtle import Turtle, Screen
 
 kev = Turtle()
 kev.shape("turtle")
-kev.color("pink")
+kev.color("red")
 for _ in range(4):
     kev.forward(-100)
     kev.circle(-100)
