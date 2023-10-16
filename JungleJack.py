@@ -1,5 +1,5 @@
 import random
-# create a game similar like FizzBuzz
+# create a game similar to FizzBuzz
 
 target = 100
 random.jungle = random.randint(1, target +1)
